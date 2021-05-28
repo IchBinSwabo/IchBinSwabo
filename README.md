@@ -16,4 +16,3 @@ Example
   "guildid": "DISCORD_SERVER_ID"
 }
 ```
-## 📝 License
